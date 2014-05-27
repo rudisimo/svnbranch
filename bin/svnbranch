@@ -21,7 +21,7 @@
 # THE SOFTWARE.
 #
 
-export VERSION=`echo -e '0.1.0'`
+export VERSION=`echo -e '0.2.0'`
 export GY=`echo -e '\033[1;30m'`
 export RD=`echo -e '\033[1;31m'`
 export GR=`echo -e '\033[1;32m'`
